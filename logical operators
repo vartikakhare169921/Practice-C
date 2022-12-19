@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+int m,n,result;
+m=40;
+n=20;
+result=(m==n)||(n==m);
+printf("%d",result);
+ return 0;
+}
